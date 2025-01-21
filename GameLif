@@ -3,5 +3,5 @@ getgenv().Games = {
   [4442272183] = "soon", -- Blox Fruit Sea 2
   [7449423635] = "soon", -- Blox Fruit Sea 3
   [16732694052] = "soon", -- Fisch
-  [3101667897] = "soon", -- speed of legaen
+  [3101667897] = "https://raw.githubusercontent.com/x2XanderScript/RunnerHub/refs/heads/main/Sepeed_Of_Legen_RunnerHub.lua", -- speed of legaen
 }
